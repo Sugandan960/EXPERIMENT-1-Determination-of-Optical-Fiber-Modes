@@ -1,4 +1,5 @@
-
+N.Sugandan
+212222060260
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
