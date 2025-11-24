@@ -62,6 +62,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 ---
 Tabulation:
 ![17639514862863327186739302542629](https://github.com/user-attachments/assets/c3c15763-61d3-4f22-9bf7-9eceffe77a9f)
+<img width="728" height="720" alt="17639515840776676528168888403028" src="https://github.com/user-attachments/assets/2bdd2522-cab1-4c84-9342-edb5a702303d" />
 
 
 ## Result
